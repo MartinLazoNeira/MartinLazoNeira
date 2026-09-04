@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%"/>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/[tu-usuario]?label=Follow&style=social)](https://github.com/[tu-usuario])
+[![GitHub followers](https://img.shields.io/github/followers/[tu-usuario]?label=Follow&style=social)](https://github.com/[MartinLazoNeira])
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:martingrimes32@gmail.com)
 [![Duoc UC](https://img.shields.io/badge/Duoc_UC-Estudiante-00529B?style=flat)](https://www.duoc.cl)
 
