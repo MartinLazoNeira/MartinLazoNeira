@@ -5,8 +5,7 @@
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/[tu-usuario]?label=Follow&style=social)](https://github.com/[tu-usuario])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/[tu-linkedin])
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:[tu-email])
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:martingrimes32@gmail.com)
 [![Duoc UC](https://img.shields.io/badge/Duoc_UC-Estudiante-00529B?style=flat)](https://www.duoc.cl)
 
 ---
@@ -18,7 +17,6 @@ Soy **estudiante de primer año de Ingeniería en Informática** en **Duoc UC**,
 - 🤖 **Inteligencia Artificial** y machine learning
 - ☕ **Java** y programación orientada a objetos
 - 📚 Aprendizaje constante y desarrollo de soluciones tecnológicas
-- 🧠 Curiosidad por la automatización y el análisis de datos
 
 > *"El mejor momento para empezar fue ayer, el segundo mejor es hoy."*
 
@@ -49,23 +47,16 @@ Soy **estudiante de primer año de Ingeniería en Informática** en **Duoc UC**,
 **En aprendizaje:**
 - 🤖 Machine Learning con Python
 - 🗄️ SQL y bases de datos relacionales
-- 🌐 Desarrollo web básico
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos
 
 ### 🏦 [Sistema de Cuentas Bancarias](https://github.com/[tu-usuario]/[repo])
 > Guía práctica sobre herencia y uso de `Scanner` en Java.
-- **Tecnologías:** Java puro, POO
-- **Características:**
-  - Clase padre `Cuenta` con atributos privados
-  - Hijas `CuentaAhorro` y `CuentaCorriente`
-  - Menú interactivo con `Scanner`
-  - Sin `@Override`, `abstract` ni `ArrayList`
-
-### 🧠 [Próximo proyecto de IA]
-> *Pronto estaré subiendo mis primeros experimentos con inteligencia artificial.*
+- Clase padre `Cuenta` con atributos privados
+- Hijas `CuentaAhorro` y `CuentaCorriente`
+- Menú interactivo con `Scanner`
 
 ---
 
@@ -78,16 +69,9 @@ Soy **estudiante de primer año de Ingeniería en Informática** en **Duoc UC**,
 
 ## 📫 Contacto
 
-- ✉️ **Email:** [tu-email]
-- 💼 **LinkedIn:** [tu-linkedin]
-- 🏫 **Duoc UC:** Sede [tu sede]
+- ✉️ **Email:** martingrimes32@gmail.com
+- 🏫 **Duoc UC:** Sede Viña del Mar
 
 ---
 
-## ⚡ Dato curioso
-
-Cuando no estoy programando, me encuentras explorando nuevas tecnologías de IA o tomando un buen café ☕ mientras veo tutoriales de machine learning.
-
----
-
-⭐ **¡Gracias por visitar mi perfil!** Estoy en constante aprendizaje y siempre abierto a colaborar en proyectos interesantes. 😊
+⭐ **¡Gracias por visitar mi perfil!** Estoy en constante aprendizaje. 😊
